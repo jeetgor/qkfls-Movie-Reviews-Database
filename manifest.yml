@@ -1,6 +1,6 @@
 ---
 applications:
- - name: movies-reviews-database-6dc
+ - name: movies-reviews-database-96a
    random-route: true
    memory: 128M
    service:
